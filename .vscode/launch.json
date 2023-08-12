@@ -1,0 +1,19 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Transform pydeps graph",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/transform/main.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "-i",
+                "vis/src/resources/fastapi_pydeps.json",
+                "-o",
+                "vis/src/resources/fastapi.json"
+            ]
+        }
+    ]
+}

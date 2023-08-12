@@ -1,0 +1,3 @@
+vis/node_modules/**
+vis/dist/app.js
+vis/dist/bundle.js

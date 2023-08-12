@@ -1,0 +1,1562 @@
+{
+    "nodes": [
+        {
+            "data": {
+                "id": "__main__",
+                "label": "__main__ (43)"
+            }
+        },
+        {
+            "data": {
+                "id": "anyio",
+                "label": "anyio (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi",
+                "label": "fastapi (9)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat",
+                "label": "fastapi._compat (7)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.applications",
+                "label": "fastapi.applications (14)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.background",
+                "label": "fastapi.background (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.concurrency",
+                "label": "fastapi.concurrency (1)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures",
+                "label": "fastapi.datastructures (2)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies",
+                "label": "fastapi.dependencies (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.models",
+                "label": "fastapi.dependencies.models (4)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.utils",
+                "label": "fastapi.dependencies.utils (14)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders",
+                "label": "fastapi.encoders (3)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exception_handlers",
+                "label": "fastapi.exception_handlers (5)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions",
+                "label": "fastapi.exceptions (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.logger",
+                "label": "fastapi.logger (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware",
+                "label": "fastapi.middleware (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.asyncexitstack",
+                "label": "fastapi.middleware.asyncexitstack (2)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.cors",
+                "label": "fastapi.middleware.cors (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.gzip",
+                "label": "fastapi.middleware.gzip (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.httpsredirect",
+                "label": "fastapi.middleware.httpsredirect (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.trustedhost",
+                "label": "fastapi.middleware.trustedhost (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.wsgi",
+                "label": "fastapi.middleware.wsgi (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi",
+                "label": "fastapi.openapi (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.constants",
+                "label": "fastapi.openapi.constants (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.docs",
+                "label": "fastapi.openapi.docs (2)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models",
+                "label": "fastapi.openapi.models (4)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.utils",
+                "label": "fastapi.openapi.utils (16)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.param_functions",
+                "label": "fastapi.param_functions (4)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params",
+                "label": "fastapi.params (2)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.requests",
+                "label": "fastapi.requests (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.responses",
+                "label": "fastapi.responses (1)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing",
+                "label": "fastapi.routing (11)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security",
+                "label": "fastapi.security (4)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.api_key",
+                "label": "fastapi.security.api_key (5)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base",
+                "label": "fastapi.security.base (3)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.http",
+                "label": "fastapi.security.http (7)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.oauth2",
+                "label": "fastapi.security.oauth2 (9)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.open_id_connect_url",
+                "label": "fastapi.security.open_id_connect_url (5)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.utils",
+                "label": "fastapi.security.utils (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.staticfiles",
+                "label": "fastapi.staticfiles (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.templating",
+                "label": "fastapi.templating (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.testclient",
+                "label": "fastapi.testclient (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types",
+                "label": "fastapi.types (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils",
+                "label": "fastapi.utils (5)"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.websockets",
+                "label": "fastapi.websockets (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions",
+                "label": "typing_extensions (0)"
+            }
+        },
+        {
+            "data": {
+                "id": "ujson",
+                "label": "ujson (0)"
+            }
+        }
+    ],
+    "edges": [
+        {
+            "data": {
+                "id": "fastapi___main__",
+                "source": "fastapi",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat___main__",
+                "source": "fastapi._compat",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.applications___main__",
+                "source": "fastapi.applications",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.background___main__",
+                "source": "fastapi.background",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.concurrency___main__",
+                "source": "fastapi.concurrency",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures___main__",
+                "source": "fastapi.datastructures",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies___main__",
+                "source": "fastapi.dependencies",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.models___main__",
+                "source": "fastapi.dependencies.models",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.utils___main__",
+                "source": "fastapi.dependencies.utils",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders___main__",
+                "source": "fastapi.encoders",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exception_handlers___main__",
+                "source": "fastapi.exception_handlers",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions___main__",
+                "source": "fastapi.exceptions",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.logger___main__",
+                "source": "fastapi.logger",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware___main__",
+                "source": "fastapi.middleware",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.asyncexitstack___main__",
+                "source": "fastapi.middleware.asyncexitstack",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.cors___main__",
+                "source": "fastapi.middleware.cors",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.gzip___main__",
+                "source": "fastapi.middleware.gzip",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.httpsredirect___main__",
+                "source": "fastapi.middleware.httpsredirect",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.trustedhost___main__",
+                "source": "fastapi.middleware.trustedhost",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.wsgi___main__",
+                "source": "fastapi.middleware.wsgi",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi___main__",
+                "source": "fastapi.openapi",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.constants___main__",
+                "source": "fastapi.openapi.constants",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.docs___main__",
+                "source": "fastapi.openapi.docs",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models___main__",
+                "source": "fastapi.openapi.models",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.utils___main__",
+                "source": "fastapi.openapi.utils",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.param_functions___main__",
+                "source": "fastapi.param_functions",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params___main__",
+                "source": "fastapi.params",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.requests___main__",
+                "source": "fastapi.requests",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.responses___main__",
+                "source": "fastapi.responses",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing___main__",
+                "source": "fastapi.routing",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security___main__",
+                "source": "fastapi.security",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.api_key___main__",
+                "source": "fastapi.security.api_key",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base___main__",
+                "source": "fastapi.security.base",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.http___main__",
+                "source": "fastapi.security.http",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.oauth2___main__",
+                "source": "fastapi.security.oauth2",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.open_id_connect_url___main__",
+                "source": "fastapi.security.open_id_connect_url",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.utils___main__",
+                "source": "fastapi.security.utils",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.staticfiles___main__",
+                "source": "fastapi.staticfiles",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.templating___main__",
+                "source": "fastapi.templating",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.testclient___main__",
+                "source": "fastapi.testclient",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types___main__",
+                "source": "fastapi.types",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils___main__",
+                "source": "fastapi.utils",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.websockets___main__",
+                "source": "fastapi.websockets",
+                "target": "__main__"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.applications_fastapi",
+                "source": "fastapi.applications",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.background_fastapi",
+                "source": "fastapi.background",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures_fastapi",
+                "source": "fastapi.datastructures",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi",
+                "source": "fastapi.exceptions",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.param_functions_fastapi",
+                "source": "fastapi.param_functions",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.requests_fastapi",
+                "source": "fastapi.requests",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.responses_fastapi",
+                "source": "fastapi.responses",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing_fastapi",
+                "source": "fastapi.routing",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.websockets_fastapi",
+                "source": "fastapi.websockets",
+                "target": "fastapi"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi._compat",
+                "source": "fastapi",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi._compat",
+                "source": "fastapi.exceptions",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi._compat",
+                "source": "fastapi.openapi",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.constants_fastapi._compat",
+                "source": "fastapi.openapi.constants",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi._compat",
+                "source": "fastapi.params",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types_fastapi._compat",
+                "source": "fastapi.types",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi._compat",
+                "source": "typing_extensions",
+                "target": "fastapi._compat"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.applications",
+                "source": "fastapi",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures_fastapi.applications",
+                "source": "fastapi.datastructures",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exception_handlers_fastapi.applications",
+                "source": "fastapi.exception_handlers",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi.applications",
+                "source": "fastapi.exceptions",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.logger_fastapi.applications",
+                "source": "fastapi.logger",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware_fastapi.applications",
+                "source": "fastapi.middleware",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.middleware.asyncexitstack_fastapi.applications",
+                "source": "fastapi.middleware.asyncexitstack",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.applications",
+                "source": "fastapi.openapi",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.docs_fastapi.applications",
+                "source": "fastapi.openapi.docs",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.utils_fastapi.applications",
+                "source": "fastapi.openapi.utils",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi.applications",
+                "source": "fastapi.params",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing_fastapi.applications",
+                "source": "fastapi.routing",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types_fastapi.applications",
+                "source": "fastapi.types",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils_fastapi.applications",
+                "source": "fastapi.utils",
+                "target": "fastapi.applications"
+            }
+        },
+        {
+            "data": {
+                "id": "anyio_fastapi.concurrency",
+                "source": "anyio",
+                "target": "fastapi.concurrency"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.datastructures",
+                "source": "fastapi",
+                "target": "fastapi.datastructures"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.datastructures",
+                "source": "fastapi._compat",
+                "target": "fastapi.datastructures"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.dependencies.models",
+                "source": "fastapi",
+                "target": "fastapi.dependencies.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.dependencies.models",
+                "source": "fastapi._compat",
+                "target": "fastapi.dependencies.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.dependencies.models",
+                "source": "fastapi.security",
+                "target": "fastapi.dependencies.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.dependencies.models",
+                "source": "fastapi.security.base",
+                "target": "fastapi.dependencies.models"
+            }
+        },
+        {
+            "data": {
+                "id": "anyio_fastapi.dependencies.utils",
+                "source": "anyio",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.dependencies.utils",
+                "source": "fastapi",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.dependencies.utils",
+                "source": "fastapi._compat",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.concurrency_fastapi.dependencies.utils",
+                "source": "fastapi.concurrency",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies_fastapi.dependencies.utils",
+                "source": "fastapi.dependencies",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.models_fastapi.dependencies.utils",
+                "source": "fastapi.dependencies.models",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.logger_fastapi.dependencies.utils",
+                "source": "fastapi.logger",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi.dependencies.utils",
+                "source": "fastapi.params",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.dependencies.utils",
+                "source": "fastapi.security",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.dependencies.utils",
+                "source": "fastapi.security.base",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.oauth2_fastapi.dependencies.utils",
+                "source": "fastapi.security.oauth2",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.open_id_connect_url_fastapi.dependencies.utils",
+                "source": "fastapi.security.open_id_connect_url",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils_fastapi.dependencies.utils",
+                "source": "fastapi.utils",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.dependencies.utils",
+                "source": "typing_extensions",
+                "target": "fastapi.dependencies.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.encoders",
+                "source": "fastapi",
+                "target": "fastapi.encoders"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.encoders",
+                "source": "fastapi._compat",
+                "target": "fastapi.encoders"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types_fastapi.encoders",
+                "source": "fastapi.types",
+                "target": "fastapi.encoders"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.exception_handlers",
+                "source": "fastapi",
+                "target": "fastapi.exception_handlers"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders_fastapi.exception_handlers",
+                "source": "fastapi.encoders",
+                "target": "fastapi.exception_handlers"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi.exception_handlers",
+                "source": "fastapi.exceptions",
+                "target": "fastapi.exception_handlers"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils_fastapi.exception_handlers",
+                "source": "fastapi.utils",
+                "target": "fastapi.exception_handlers"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.websockets_fastapi.exception_handlers",
+                "source": "fastapi.websockets",
+                "target": "fastapi.exception_handlers"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.middleware.asyncexitstack",
+                "source": "fastapi",
+                "target": "fastapi.middleware.asyncexitstack"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.concurrency_fastapi.middleware.asyncexitstack",
+                "source": "fastapi.concurrency",
+                "target": "fastapi.middleware.asyncexitstack"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.openapi.docs",
+                "source": "fastapi",
+                "target": "fastapi.openapi.docs"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders_fastapi.openapi.docs",
+                "source": "fastapi.encoders",
+                "target": "fastapi.openapi.docs"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.openapi.models",
+                "source": "fastapi",
+                "target": "fastapi.openapi.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.openapi.models",
+                "source": "fastapi._compat",
+                "target": "fastapi.openapi.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.logger_fastapi.openapi.models",
+                "source": "fastapi.logger",
+                "target": "fastapi.openapi.models"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.openapi.models",
+                "source": "typing_extensions",
+                "target": "fastapi.openapi.models"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.openapi.utils",
+                "source": "fastapi",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.openapi.utils",
+                "source": "fastapi._compat",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures_fastapi.openapi.utils",
+                "source": "fastapi.datastructures",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies_fastapi.openapi.utils",
+                "source": "fastapi.dependencies",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.models_fastapi.openapi.utils",
+                "source": "fastapi.dependencies.models",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.utils_fastapi.openapi.utils",
+                "source": "fastapi.dependencies.utils",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders_fastapi.openapi.utils",
+                "source": "fastapi.encoders",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.openapi.utils",
+                "source": "fastapi.openapi",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.constants_fastapi.openapi.utils",
+                "source": "fastapi.openapi.constants",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.openapi.utils",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi.openapi.utils",
+                "source": "fastapi.params",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.responses_fastapi.openapi.utils",
+                "source": "fastapi.responses",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing_fastapi.openapi.utils",
+                "source": "fastapi.routing",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types_fastapi.openapi.utils",
+                "source": "fastapi.types",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils_fastapi.openapi.utils",
+                "source": "fastapi.utils",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.openapi.utils",
+                "source": "typing_extensions",
+                "target": "fastapi.openapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.param_functions",
+                "source": "fastapi",
+                "target": "fastapi.param_functions"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.param_functions",
+                "source": "fastapi._compat",
+                "target": "fastapi.param_functions"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi.param_functions",
+                "source": "fastapi.params",
+                "target": "fastapi.param_functions"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.param_functions",
+                "source": "typing_extensions",
+                "target": "fastapi.param_functions"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.params",
+                "source": "fastapi._compat",
+                "target": "fastapi.params"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.params",
+                "source": "typing_extensions",
+                "target": "fastapi.params"
+            }
+        },
+        {
+            "data": {
+                "id": "ujson_fastapi.responses",
+                "source": "ujson",
+                "target": "fastapi.responses"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.routing",
+                "source": "fastapi",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.routing",
+                "source": "fastapi._compat",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures_fastapi.routing",
+                "source": "fastapi.datastructures",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies_fastapi.routing",
+                "source": "fastapi.dependencies",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.models_fastapi.routing",
+                "source": "fastapi.dependencies.models",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.dependencies.utils_fastapi.routing",
+                "source": "fastapi.dependencies.utils",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.encoders_fastapi.routing",
+                "source": "fastapi.encoders",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi.routing",
+                "source": "fastapi.exceptions",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.params_fastapi.routing",
+                "source": "fastapi.params",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.types_fastapi.routing",
+                "source": "fastapi.types",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.utils_fastapi.routing",
+                "source": "fastapi.utils",
+                "target": "fastapi.routing"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.api_key_fastapi.security",
+                "source": "fastapi.security.api_key",
+                "target": "fastapi.security"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.http_fastapi.security",
+                "source": "fastapi.security.http",
+                "target": "fastapi.security"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.oauth2_fastapi.security",
+                "source": "fastapi.security.oauth2",
+                "target": "fastapi.security"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.open_id_connect_url_fastapi.security",
+                "source": "fastapi.security.open_id_connect_url",
+                "target": "fastapi.security"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.security.api_key",
+                "source": "fastapi",
+                "target": "fastapi.security.api_key"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.security.api_key",
+                "source": "fastapi.openapi",
+                "target": "fastapi.security.api_key"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.security.api_key",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.security.api_key"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.security.api_key",
+                "source": "fastapi.security",
+                "target": "fastapi.security.api_key"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.security.api_key",
+                "source": "fastapi.security.base",
+                "target": "fastapi.security.api_key"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.security.base",
+                "source": "fastapi",
+                "target": "fastapi.security.base"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.security.base",
+                "source": "fastapi.openapi",
+                "target": "fastapi.security.base"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.security.base",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.security.base"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.security.http",
+                "source": "fastapi",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi.security.http",
+                "source": "fastapi.exceptions",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.security.http",
+                "source": "fastapi.openapi",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.security.http",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.security.http",
+                "source": "fastapi.security",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.security.http",
+                "source": "fastapi.security.base",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.utils_fastapi.security.http",
+                "source": "fastapi.security.utils",
+                "target": "fastapi.security.http"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.security.oauth2",
+                "source": "fastapi",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.exceptions_fastapi.security.oauth2",
+                "source": "fastapi.exceptions",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.security.oauth2",
+                "source": "fastapi.openapi",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.security.oauth2",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.param_functions_fastapi.security.oauth2",
+                "source": "fastapi.param_functions",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.security.oauth2",
+                "source": "fastapi.security",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.security.oauth2",
+                "source": "fastapi.security.base",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.utils_fastapi.security.oauth2",
+                "source": "fastapi.security.utils",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.security.oauth2",
+                "source": "typing_extensions",
+                "target": "fastapi.security.oauth2"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.security.open_id_connect_url",
+                "source": "fastapi",
+                "target": "fastapi.security.open_id_connect_url"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi_fastapi.security.open_id_connect_url",
+                "source": "fastapi.openapi",
+                "target": "fastapi.security.open_id_connect_url"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.openapi.models_fastapi.security.open_id_connect_url",
+                "source": "fastapi.openapi.models",
+                "target": "fastapi.security.open_id_connect_url"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security_fastapi.security.open_id_connect_url",
+                "source": "fastapi.security",
+                "target": "fastapi.security.open_id_connect_url"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.security.base_fastapi.security.open_id_connect_url",
+                "source": "fastapi.security.base",
+                "target": "fastapi.security.open_id_connect_url"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi_fastapi.utils",
+                "source": "fastapi",
+                "target": "fastapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi._compat_fastapi.utils",
+                "source": "fastapi._compat",
+                "target": "fastapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.datastructures_fastapi.utils",
+                "source": "fastapi.datastructures",
+                "target": "fastapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "fastapi.routing_fastapi.utils",
+                "source": "fastapi.routing",
+                "target": "fastapi.utils"
+            }
+        },
+        {
+            "data": {
+                "id": "typing_extensions_fastapi.utils",
+                "source": "typing_extensions",
+                "target": "fastapi.utils"
+            }
+        }
+    ]
+}
